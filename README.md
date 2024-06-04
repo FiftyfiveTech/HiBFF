@@ -16,7 +16,7 @@ Installation
 
 1. Clone this repository:
 
-git clone https://github.com/jain-soyam/Chatapp.git
+git clone https://github.com/FiftyfiveTech/HiBFF.git
 
 2. Navigate to the project directory:
 
